@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-22T08:18:33-06:00</updated><id>/feed.xml</id><title type="html">Junho Park</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Deleting All Of My Facebook Data</title><link href="/2020/11/20/deleting-all-of-my-facebook-data.html" rel="alternate" type="text/html" title="Deleting All Of My Facebook Data" /><published>2020-11-20T00:00:00-06:00</published><updated>2020-11-20T00:00:00-06:00</updated><id>/2020/11/20/deleting-all-of-my-facebook-data</id><content type="html" xml:base="/2020/11/20/deleting-all-of-my-facebook-data.html">&lt;p&gt;For awhile I had been contemplating either deleting my Facebook data or deleting my Facebook account altogether and after reading Christopher Wylie’s book on Cambridge Analytica (Mindf*ck: Cambridge Analytica and the Plot to Break America) I decided it was finally time to pull the trigger on this. I decided that I’ll delete all of my Facebook data and… perhaps somewhere down the road I’ll decide to delete my Facebook account completely.&lt;/p&gt;
+
+&lt;p&gt;This blog post is my attempt at writing a concise guide on how to delete all of your Facebook data (while still keeping your account alive). Note that I did this on facebook.com in Chrome.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Settings &amp;amp; Privacy&lt;/code&gt; &amp;gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Settings&lt;/code&gt; &amp;gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Your Facebook Information&lt;/code&gt; &amp;gt; Clicked on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;View&lt;/code&gt; next to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Download Your Information&lt;/code&gt; &amp;gt; Decided to download all of my data in both HTML, with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Media Quality&lt;/code&gt; set to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;High&lt;/code&gt;. This triggered an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Facebook information file requested&lt;/code&gt; email and 5 minutes later, I received a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Your Facebook information file is ready&lt;/code&gt; email. When I reloaded the webpage, I was able to click on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Available Copies&lt;/code&gt; link and download the (293.6MB Zip) file that’s been prepared for me. I repeated the same steps for generating a file in JSON (283MB Zip). Once I downloaded the files, I clicked &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Delete&lt;/code&gt; for both of the generated files.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I downloaded the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Social Book Post Manager&lt;/code&gt; Chrome extension as that appeared to be the best and perhaps the only way to mass-delete my Facebook data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It appears that the above Chrome extension only works with the “classic design” Facebook view - which it appears I can only revert to by installing the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Switch to Classic design on Facebook&lt;/code&gt; Chrome extension, which I did.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I went back to facebook.com &amp;gt; Switched to classic design (by using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Switch to Classic design on Facebook&lt;/code&gt; extension) &amp;gt; And then by using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Social Book Post Manager&lt;/code&gt; I was able to delete all of my posts.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">For awhile I had been contemplating either deleting my Facebook data or deleting my Facebook account altogether and after reading Christopher Wylie’s book on Cambridge Analytica (Mindf*ck: Cambridge Analytica and the Plot to Break America) I decided it was finally time to pull the trigger on this. I decided that I’ll delete all of my Facebook data and… perhaps somewhere down the road I’ll decide to delete my Facebook account completely.</summary></entry><entry><title type="html">Personal Retreat</title><link href="/2019/09/21/personal-retreat.html" rel="alternate" type="text/html" title="Personal Retreat" /><published>2019-09-21T00:00:00-05:00</published><updated>2019-09-21T00:00:00-05:00</updated><id>/2019/09/21/personal-retreat</id><content type="html" xml:base="/2019/09/21/personal-retreat.html">&lt;p&gt;I drove about 2 hours west to Stockton, IL - to a place called &lt;a href=&quot;http://citwretreat.com&quot;&gt;Christ in the Wilderness (CITW)&lt;/a&gt;, to spend a few days (Friday evening - Sunday morning) to myself to pray, reflect, meditate, journal, hike, and rest my too-busy mind.&lt;/p&gt;
+
+&lt;p&gt;This is the 3rd time I’m been here (Sep 2009, Mar 2012, Sep 2019) and now that I’ve been here for about 24 hours, I’m reminded of why this place is so special and why I will absolutely come back here again. There are 3 individual homes (“hermitages”) at CITW that are spread far apart from one another, on a large (it’s gotta be several acres) plot of land that’s surrounded by trees &amp;amp; birds. This is my 3rd time staying at the “Sabbath Place” hermitage and loving it so far (I’ll need to make sure to try out their other hermitages the next time I’m here).&lt;/p&gt;
+
+&lt;p&gt;I love the privacy I have (truly feels like I’m in the middle of nowhere), the lack of cell signal (what a gift!), all the greenery, bird sounds, and &lt;em&gt;the journals&lt;/em&gt;. There are these journals that contain writings penned by dozens upon dozens of people who have stayed at the Sabbath Place and the earliest writing that I see here dates all the way back to July of 1995. There’s something so beautiful about these writings–thoughts &amp;amp; reflections of people who have stayed at this place. I, of course, looked for &amp;amp; read my own entries from when I stayed here in 2009 &amp;amp; 2012 and it reminded me of God’s goodness &amp;amp; faithfulness.&lt;/p&gt;
+
+&lt;p&gt;Alrighty, time to leave to grab some dinner &amp;amp; will push up this blog post once I get back home.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/citw-welcome.jpg&quot; alt=&quot;Welcome to CITW&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/citw-trail.jpg&quot; alt=&quot;Trail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/citw-hermitage.jpg&quot; alt=&quot;The Sabbath Place hermitage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/citw-journals.jpg&quot; alt=&quot;The journals&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I drove about 2 hours west to Stockton, IL - to a place called Christ in the Wilderness (CITW), to spend a few days (Friday evening - Sunday morning) to myself to pray, reflect, meditate, journal, hike, and rest my too-busy mind.</summary></entry><entry><title type="html">Deconstruct</title><link href="/2018/05/24/deconstruct.html" rel="alternate" type="text/html" title="Deconstruct" /><published>2018-05-24T00:00:00-05:00</published><updated>2018-05-24T00:00:00-05:00</updated><id>/2018/05/24/deconstruct</id><content type="html" xml:base="/2018/05/24/deconstruct.html">&lt;p&gt;I recently returned home from attending &lt;a href=&quot;https://www.deconstructconf.com/&quot;&gt;Deconstruct&lt;/a&gt; along with a bunch of my co-workers. I thought I’d jot my thoughts down while the experience is still fresh on my mind.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It was really nice to be able to attend a conference with a large group of co-workers. There were roughly 20 - 30 Braintree folks (a lot!) at the conference and I got to chat with a good number of them, share meals, and since I’ve only been at the company for a few months now, it was especially nice to be able to meet co-workers I hadn’t met before. Just from my team alone, there were 4 of us (including myself) who were at the conference. It was nice to be able to ask non-strangers “so, what did you think of that last talk?” and I’m sure I’ll engage in more of these discussions back at the office. Really thankful for the generous conference budget we have at Braintree. I intend on making full use of it as long as I’m with the company!&lt;/li&gt;
+  &lt;li&gt;There were 16 speakers and with the exception of just a single speaker, they were very good. They knew how to present &amp;amp; make it really engaging to a large audience. This conference stands out as being comprised of highly skilled presenters—certainly better than most (perhaps all) other tech conferences I’ve attended in the past.&lt;/li&gt;
+  &lt;li&gt;I appreciated how diverse the speaker lineup was. Half of the speakers were women (wow). Half of the speakers were minorities (again, wow). There was also a good mix of folks who are early in their software engineering careers (within the first few years of their career) as well as folks who are seasoned veterans. It was nice to be reminded that you don’t have to an expert in your field to be able to speak at a good-sized conference like this. I’ve never been to a conference where the speaker lineup was &lt;em&gt;nearly&lt;/em&gt; as diverse as this one.&lt;/li&gt;
+  &lt;li&gt;The 2 talks that had the most impact on me were talks that challenged me to not merely focus on my own career, my own family, my own well-being, my own self interests, my own world… but to think long and hard about how I can contribute to the betterment of the society &amp;amp; the world that I live in and ultimately take action. I’m greatly simplifying the overall messages of these talks here but these 2 talks were very challenging for me to hear (in a good way). One of these 2 talks got a standing ovation at the end of the talk, which has never happened at any of the tech conferences I’ve attended in the past.&lt;/li&gt;
+  &lt;li&gt;I liked the single-track format. No need to worry about which talks I’m going to attend and having to repeatedly feel like I’m missing out on numerous interesting-sounding talks. I &lt;em&gt;loved&lt;/em&gt; the lack of sponsors. No advertisements. No one trying to sell you stuff. A lot less distractions than most other conferences I’ve attended, which enabled me to focus better on the talks themselves.&lt;/li&gt;
+  &lt;li&gt;Seattle is great! Everyone tells me how it’s always cloudy or dripping rain in Seattle but the city has been nothing but sunny skies &amp;amp; super comfortable temperatures for me both times I’ve been there. Really like being near large bodies of water as well as mountains and hills.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I recently returned home from attending Deconstruct along with a bunch of my co-workers. I thought I’d jot my thoughts down while the experience is still fresh on my mind.</summary></entry><entry><title type="html">Ruby Script On Heroku That Accesses Google Sheet On A Schedule</title><link href="/2018/02/25/ruby-script-on-heroku-that-accesses-google-sheet-on-a-schedule.html" rel="alternate" type="text/html" title="Ruby Script On Heroku That Accesses Google Sheet On A Schedule" /><published>2018-02-25T00:00:00-06:00</published><updated>2018-02-25T00:00:00-06:00</updated><id>/2018/02/25/ruby-script-on-heroku-that-accesses-google-sheet-on-a-schedule</id><content type="html" xml:base="/2018/02/25/ruby-script-on-heroku-that-accesses-google-sheet-on-a-schedule.html">&lt;p&gt;I recently had a need to write a simple script that writes to a Google Sheet document once a day. I decided to write the script in Ruby and host it on Heroku since I didn’t want my laptop to be on in order for the script to run. After spending some time Googling &amp;amp; some trial and error, I came up with something that works and is quite simple. For the purposes of this blog post, I will write a Ruby script that accesses a newly created Google Sheet document and does the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prints out to the console how many rows are contained in the Google Sheet document&lt;/li&gt;
+  &lt;li&gt;Adds the current date &amp;amp; time to a new row in the document&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will then set up a recurring job on Heroku to execute the script every 10 minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-steps&quot;&gt;The Steps&lt;/h2&gt;
+
+&lt;p&gt;Create a new Google Sheet document.&lt;/p&gt;
+
+&lt;p&gt;Create a new project in Heroku. For the purposes of this example, I’m calling it: &lt;em&gt;scheduled-ruby-script&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t already, install the &lt;a href=&quot;https://devcenter.heroku.com/articles/heroku-cli&quot;&gt;Heroku CLI&lt;/a&gt;. After it’s been installed, set up your project locally:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ heroku login
+$ mkdir scheduled-ruby-script
+$ cd scheduled-ruby-script
+$ git init
+$ heroku git:remote -a scheduled-ruby-script
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;At the project root, create a Gemfile with the following 2 lines in the file:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;source &quot;https://rubygems.org&quot;
+gem &quot;google_drive&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Let’s go ahead and create the Ruby script. We’re going to utilize the &lt;a href=&quot;https://github.com/gimite/google-drive-ruby&quot;&gt;Google Drive Ruby Gem&lt;/a&gt;. Let’s call the file &lt;em&gt;script.rb&lt;/em&gt; and it should contain the following. &lt;strong&gt;NOTE:&lt;/strong&gt; When you’re setting the &lt;em&gt;google_sheet_id&lt;/em&gt; variable below, this comes out of the Google Sheet document’s URL. This is the unique identifier looking thingie part of the URL. For example, if the URL is &lt;em&gt;https://docs.google.com/spreadsheets/d/1iB6vU90eFVjLa93jyb4TdT2fArNddXWQSEnFRamerA7/edit#gid=0&lt;/em&gt; then you should set the variable to: &lt;em&gt;“1iB6vU90eFVjLa93jyb4TdT2fArNddXWQSEnFRamerA7”&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;require &quot;google_drive&quot;
+
+session = GoogleDrive::Session.from_config(&quot;config.json&quot;)
+
+# You can grab this from the URL of the Google Sheet document
+google_sheet_id = &quot;[SEE MY NOTE ABOVE!]&quot;
+
+ws = session.spreadsheet_by_key(google_sheet_id).worksheets[0]
+
+ws[ws.num_rows + 1, 1] = Time.now
+
+ws.save
+
+# Reloads the worksheet to get changes by other clients.
+ws.reload
+
+p &quot;Number of rows in the Google Sheet document: #{ws.num_rows}&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Let’s test the script locally.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ bundle install
+$ ruby script.rb
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;When you run the script for the first time, you’ll be asked to go to a URL that starts with &lt;em&gt;https://accounts.google.com&lt;/em&gt;. Go to the URL in your browser and copy the code that you’re provided with. Paste that back in your Terminal and press return. This will create a &lt;em&gt;config.json&lt;/em&gt; file at the project root and it contains the credentials that allows your script to access to the Google Sheet document.&lt;/p&gt;
+
+&lt;p&gt;If your script runs successfully, you should see something like &lt;em&gt;“Number of rows in the Google Sheet document: 1”&lt;/em&gt; printed out in the Terminal and see a timestamp in the Google Sheet document.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ruby-heroku-google-sheets/1_record.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you’ve confirmed that the script is working locally, let’s commit your files and push them up to Heroku.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git add .
+$ git commit -m “Writes to Google Sheet document and reads from it&quot;
+$ git push heroku master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once the files are pushed up, let’s test it on Heroku.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ heroku run bash
+Running bash on ⬢ scheduled-ruby-script... up, run.5080 (Free)
+~ $ ruby script.rb
+&quot;Number of rows in the Google Sheet document: 2&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And if you look at the Google Sheet document, you should see that another timestamp has been added. Note that when the script runs on Heroku, the timestamp will be in UTC.&lt;/p&gt;
+
+&lt;p&gt;Now, if we want &lt;em&gt;script.rb&lt;/em&gt; to be executed every 10 minutes, you’ll need to configure Heroku Scheduler. Go to: &lt;a href=&quot;https://dashboard.heroku.com/apps&quot;&gt;https://dashboard.heroku.com/apps&lt;/a&gt; &amp;gt; Select your application (eg, &lt;em&gt;scheduled-ruby-script&lt;/em&gt;) &amp;gt; Click on &lt;em&gt;Configure Add-ons&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ruby-heroku-google-sheets/add_ons.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Under &lt;em&gt;Add-ons&lt;/em&gt; &amp;gt; Type in: &lt;em&gt;Heroku Scheduler&lt;/em&gt; &amp;gt; Select the &lt;em&gt;Provision&lt;/em&gt; button. You should now see that the Heroku Scheduler add-on has been added. Click on the &lt;em&gt;Heroku Scheduler&lt;/em&gt; link.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ruby-heroku-google-sheets/heroku_scheduler.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on ‘Add new job’ and update the fields to have &lt;em&gt;ruby script.rb&lt;/em&gt; run &lt;em&gt;Every 10 minutes&lt;/em&gt;. Select the &lt;em&gt;Save&lt;/em&gt; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/ruby-heroku-google-sheets/new_job.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Give it some time (&amp;lt; 10 minutes) and if everything works, you should eventually see a new record get added to your Google Sheet document.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently had a need to write a simple script that writes to a Google Sheet document once a day. I decided to write the script in Ruby and host it on Heroku since I didn’t want my laptop to be on in order for the script to run. After spending some time Googling &amp;amp; some trial and error, I came up with something that works and is quite simple. For the purposes of this blog post, I will write a Ruby script that accesses a newly created Google Sheet document and does the following:</summary></entry><entry><title type="html">My Disappointment With The New Macbook Pro</title><link href="/2018/02/19/my-disappointment-with-the-new-macbook-pro.html" rel="alternate" type="text/html" title="My Disappointment With The New Macbook Pro" /><published>2018-02-19T00:00:00-06:00</published><updated>2018-02-19T00:00:00-06:00</updated><id>/2018/02/19/my-disappointment-with-the-new-macbook-pro</id><content type="html" xml:base="/2018/02/19/my-disappointment-with-the-new-macbook-pro.html">&lt;p&gt;When I started at Braintree I was given a new 2017 15” MacBook Pro with Touch Bar. It’s a really nice laptop overall and I don’t mean to sound ungrateful… but in the last few weeks that I’ve been using it I’ve also found myself disappointed with it. Here’s a list of my disappointments with the laptop:&lt;/p&gt;
+
+&lt;p&gt;The keyboard is probably the worst I’ve ever felt on a laptop. The keys are just too shallow and it seems to me that by shaving off very small amounts of thickness, the keyboard became noticeably suckier. The keyboard between the new 2017 15” MBP and my 2012 MacBook Air is really night and day (MBA’s is way nicer).&lt;/p&gt;
+
+&lt;p&gt;I really wish Apple had not decided to put USB-C ports on the laptop. The ports on the previous models of MacBook Pros were perfectly fine. I miss my HDMI, USB, and Thunderbolt ports. Does anyone out there like the fact that Apple decided to go with all USB-C ports on these laptops? I miss the MagSafe power adapter connector.&lt;/p&gt;
+
+&lt;p&gt;Speaking of MagSafe, I don’t like the fact that when my laptop plugged in, there is no way for me to know whether or not it’s charging without having to open the lid and check the battery icon in the top menu. I miss the green/orange light on the power adapter.&lt;/p&gt;
+
+&lt;p&gt;The Touch Bar is not at all useful. It was cool when I first played around with it but the coolness factor completely wore off within 5 minutes. I miss the Escape key. I miss the function keys. Even if Apple decides to keep the Touch Bar in their future laptop models, I really hope they’ll decide to bring back the top-row keys.&lt;/p&gt;
+
+&lt;p&gt;I thought that I would like the much larger Trackpad of the new MBP. Well, I don’t like it. It’s too big. When I’m typing, it’s not uncomming for the edges of my palms to hit the upper corners of the Trackpad, which then puts the cursor in a random place on the screen and then I’ve gotta hit the Delete key several times, put the cursor back in the correct place, and try typing again… it’s annoying to have to deal with.&lt;/p&gt;
+
+&lt;p&gt;In terms of the physical design changes to the laptop, I think the only change I’m liking is the new Touch ID. It is very convinient to not have to type in my password every time I want to un-lock my computer. That is all…&lt;/p&gt;</content><author><name></name></author><summary type="html">When I started at Braintree I was given a new 2017 15” MacBook Pro with Touch Bar. It’s a really nice laptop overall and I don’t mean to sound ungrateful… but in the last few weeks that I’ve been using it I’ve also found myself disappointed with it. Here’s a list of my disappointments with the laptop:</summary></entry><entry><title type="html">A Few Weeks Into The New Job</title><link href="/2018/02/18/a-few-weeks-into-the-new-job.html" rel="alternate" type="text/html" title="A Few Weeks Into The New Job" /><published>2018-02-18T00:00:00-06:00</published><updated>2018-02-18T00:00:00-06:00</updated><id>/2018/02/18/a-few-weeks-into-the-new-job</id><content type="html" xml:base="/2018/02/18/a-few-weeks-into-the-new-job.html">&lt;p&gt;I’ve been at Braintree now for almost 3 weeks and I can’t believe it’s only been a few weeks because I’ve experienced a ton of new things and have met a lot of people and time sure seems to go by much more slowly when you’re soaking in new experiences. And the older I get–especially as a father of 2 young children who are always growing up way too fast in my eyes–I’m finding that it’s perfectly OK with me if time seems to go really s-l-o-w-l-y.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-ive-enjoyed-so-far&quot;&gt;What I’ve enjoyed so far&lt;/h2&gt;
+&lt;p&gt;Let’s start with the simple stuff. This is the first company I’ve worked at where there’s catered lunch every day and I’m really loving it. The food tastes pretty good, there’s a lot of variety (the menu changes daily), and it saves me a lot of time &amp;amp; money. Catered lunch makes it really easy to grab lunch with my co-workers and has been helpful in getting to know others. Speaking of food, there is food scattered all throughout the office. Coffee, snacks, fruit, donuts, LaCroix, protein shake, beer, and on and on and on. Makes me really happy.&lt;/p&gt;
+
+&lt;p&gt;It’s a nice office space with plenty of conference rooms &amp;amp; adjustable standing desk for every employee. The computer equipment is quite nice too. 15” MBP + 38” curved monitor, which is just beautiful to look at. On a completely tangential note, I’d like to say that Apple didn’t quite get it right with their new Touch Bar MacBook Pros (the Touch Bar is a useless toy, the new keyboard really sucks, and I hate USB-C ports) but that’s for another blog post…&lt;/p&gt;
+
+&lt;p&gt;Even though I’ve only been here for a short period of time, the overall environment has come across so far as being positive. People seem smart, knowledgeable, helpful, collaborative, and care a lot about the work that they do at the company. The company focuses a lot on diversity &amp;amp; inclusion, which I find to be a really good thing, especially in technology.&lt;/p&gt;
+
+&lt;p&gt;I’m managing a team that’s focused on scale &amp;amp; performance of the Braintree payment gateway and I like that my team has a very clear mission. Coming from a smaller company background, it’s great that there’s an entire team that’s dedicated to improving the scalability of the payment platform. It’s my first time working on an application (or rather, a set of applications) at this level of scale (just imagine how many Uber payments are needing to be processed… and that’s just one customer among many) and it’s pretty exciting that the work that my team does has a direct impact on the health of the Braintree payment gateway and ultimately the health of the company.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-miss&quot;&gt;What I miss&lt;/h2&gt;
+&lt;p&gt;There are, of course, things I miss. I obviously miss my former colleagues and I do miss being a part of a smaller company where I knew every single person and knew them enough to be able to strike up a conversation with each. With everything operating at a much smaller scale than Braintree, ramp-up was relatively easy. When there is one engineering team as opposed to dozens, it’s not hard to figure out where to look and who to talk to if you have questions. Even if I didn’t have a full grasp of the entirety of the monolithic code base, I knew enough and felt comfortable enough to be able to debug and make changes just about anywhere in the code base. I’m not sure if it will be even feasible to attain this level of comfort at Braintree but I suppose I should give myself some time first.&lt;/p&gt;
+
+&lt;p&gt;There is A TON of stuff for me to learn here and it is a bit overwhelming to think about. I’ve got technologies to learn, systems &amp;amp; applications, people, teams, processes… it is A LOT. I’m excited for the challenge, though, and can’t wait to make some significant &amp;amp; meaningful impacts on my team and the company.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve been at Braintree now for almost 3 weeks and I can’t believe it’s only been a few weeks because I’ve experienced a ton of new things and have met a lot of people and time sure seems to go by much more slowly when you’re soaking in new experiences. And the older I get–especially as a father of 2 young children who are always growing up way too fast in my eyes–I’m finding that it’s perfectly OK with me if time seems to go really s-l-o-w-l-y.</summary></entry><entry><title type="html">Interview Process Takeaways</title><link href="/2018/01/05/interview-process-takeaways.html" rel="alternate" type="text/html" title="Interview Process Takeaways" /><published>2018-01-05T00:00:00-06:00</published><updated>2018-01-05T00:00:00-06:00</updated><id>/2018/01/05/interview-process-takeaways</id><content type="html" xml:base="/2018/01/05/interview-process-takeaways.html">&lt;p&gt;In the last several weeks I’ve had the opportunity to speak with numerous companies as a job candidate. While the experience is still fresh in my mind, I thought now would be a good time for me to jot down my observations as a job seeker and note things I would like to practice in my future recruiting &amp;amp; hiring efforts.&lt;/p&gt;
+
+&lt;h3 id=&quot;ditch-the-phone-and-do-video-chats-instead&quot;&gt;Ditch the phone and do video chats instead&lt;/h3&gt;
+&lt;p&gt;As an interviewer, I’ve always done my initial interview with candidates over the phone and when I thought about why I’ve been doing it over the phone instead of utilizing video, I realized that I didn’t have a good answer. I think it’s because that’s just what I’m used to doing and I suppose setting up a video call takes &lt;em&gt;slightly&lt;/em&gt; more work than simply picking up the phone. The more I think about it, video chats are the way to go. One of my goals as a hiring manager is to make the interview process as efficient as possible and by doing the initial interview over video, I’m able to get a fuller picture of who the candidate is. So much of communication is body language &amp;amp; facial expressions–things that can’t be conveyed &amp;amp; captured when speaking over the phone.&lt;/p&gt;
+
+&lt;h3 id=&quot;address-compensation-early-in-the-interview-process&quot;&gt;Address compensation early in the interview process&lt;/h3&gt;
+&lt;p&gt;With one of the companies I was talking to, the topic of compensation didn’t come up until all the way at the end of the interview process. It was then that we both discovered that we were significantly off. Argh. While I suppose that I (as a job candidate) could’ve very easily addressed compensation at the very beginning of the interview process, I think ultimately it’s the company’s responsibility to bring up this topic. When candidates bring up the topic of compensation at the very beginning of the interview process, it may cause the interviewer to think that what the candidate cares about the &lt;em&gt;most&lt;/em&gt; is money. Not something that would reflect positively on the candidate.&lt;/p&gt;
+
+&lt;h3 id=&quot;be-punctual---especially-when-calling-the-candidate&quot;&gt;Be punctual - especially when calling the candidate&lt;/h3&gt;
+&lt;p&gt;I think I’m already doing a pretty good job in this area but after having gone through numerous interviews in the past month and seeing how often interviewers were late, I’d like to be &lt;em&gt;really&lt;/em&gt; good at this. It was more common for the interviewer to be late by a few minutes. As a candidate when the interviewer called me right on time, it sent a message that the interviewer honors my time.&lt;/p&gt;
+
+&lt;h3 id=&quot;share-detailed-interview-agenda-with-the-candidate-at-least-a-day-before-the-interview&quot;&gt;Share detailed interview agenda with the candidate at least a day before the interview&lt;/h3&gt;
+&lt;p&gt;I admit that I haven’t done a very good job of this as a hiring manager. Once the onsite interview is scheduled, I’ll let the candidate know ahead of time what time the interview starts &amp;amp; ends and the address of the office but… that’s been about it. In the future, I’d like to share at least the following information with my candidates beforehand:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Expected dress code for the interview. Are jeans &amp;amp; t-shirt perfectly okay? Would it best to wear a suit &amp;amp; tie?&lt;/li&gt;
+  &lt;li&gt;Who should the candidate ask for upon arriving at the office?&lt;/li&gt;
+  &lt;li&gt;List of people who will be doing the interviews. Include their names &amp;amp; titles.&lt;/li&gt;
+  &lt;li&gt;For each portion of the interview - include a summary of what the interviewers will focus on and what the candidate will be expected to do. For example, will the candidate be expected to draw architecture diagrams on a whiteboard? Will the candidate be expected to write code on a laptop? Pair program? A few months ago I came across the following interview agenda template that readme.io shares with their candidates beforehand (I think it looks awesome!) and I’d love to do something like this in the future: &lt;a href=&quot;http://hiring.readme.io/2342-carla-walton&quot;&gt;http://hiring.readme.io/2342-carla-walton&lt;/a&gt; (In case the link goes away, you can see a screenshot of it &lt;a href=&quot;/assets/img/readme_interview_agenda.png&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;give-a-tour-of-the-office&quot;&gt;Give a tour of the office&lt;/h3&gt;
+&lt;p&gt;It’s a minor thing, but as a job candidate, I really liked getting a tour of the office. It allowed me to get a better sense of what sort of an environment I would be working in. It’s not something that I’ve been doing as a hiring manager but it is something that I would like to do going forward.&lt;/p&gt;
+
+&lt;h3 id=&quot;commit-to-sharing-both-positive-and-negative-feedback-after-an-onsite-interview&quot;&gt;Commit to sharing both positive and negative feedback after an onsite interview&lt;/h3&gt;
+&lt;p&gt;At the end of an onsite interview, one of the companies I interviewed with told me that I will receive feedback the very next day, even if it’s negative feedback. It was music to my ears. I loved that they committed to sharing feedback with me in a timely manner AND that they committed to sharing feedback with me even if it meant that they would not be moving forward with me in the interview process (and they delivered on their promise). It reflected very positively on this particular company. Unless I’m prohibited by my employer from sharing negative feedback with candidates I’m choosing not to move forward with, I’d love to be able to commit to providing &lt;em&gt;timely&lt;/em&gt; feedback–both positive AND negative–with my candidates. Sure, I would need to be somewhat careful what sort of negative feedback I share with candidates but I think I can handle that pretty easily.&lt;/p&gt;</content><author><name></name></author><summary type="html">In the last several weeks I’ve had the opportunity to speak with numerous companies as a job candidate. While the experience is still fresh in my mind, I thought now would be a good time for me to jot down my observations as a job seeker and note things I would like to practice in my future recruiting &amp;amp; hiring efforts.</summary></entry><entry><title type="html">Thankful</title><link href="/2017/12/30/thankful.html" rel="alternate" type="text/html" title="Thankful" /><published>2017-12-30T00:00:00-06:00</published><updated>2017-12-30T00:00:00-06:00</updated><id>/2017/12/30/thankful</id><content type="html" xml:base="/2017/12/30/thankful.html">&lt;p&gt;I started 2017 with a ton of excitement over the opportunity to build Cappex’s very own &lt;a href=&quot;https://www.cappex.com/hq/app/learn&quot;&gt;college application product&lt;/a&gt;. I knew it was going to be an extremely challenging project with a tight deadline (8/1), a lot of moving pieces (pretty much the entire company was going to be focused on it), and a lot of hires to make (I made more hires in roughly 3 months than during the rest of the 3+ years I’ve been in my role) but I felt ready for it coming into 2017. As I mentioned in my &lt;a href=&quot;https://junhopark.com/posts/2017/10/12/new-product-launch-and-life-afterwards&quot;&gt;previous blog post&lt;/a&gt;, my team got the job done in time &amp;amp; I couldn’t be more proud of them.&lt;/p&gt;
+
+&lt;p&gt;Soon after going live with the product launch, my team had to then focus on getting the international version of the product (for international students) out the door. Again, people on the team worked hard &amp;amp; we were able to get it launched in October. By November we had international students submitting college applications using the product that my team had built. Pretty fantastic!&lt;/p&gt;
+
+&lt;p&gt;Fast forward several weeks and in early December I found out that I was going to have to leave Cappex and look for a new gig. I’m not going to go into details about what happened but what I can say is that it was a surprise and initially when I found out, I felt that the timing sucked. Really bad. I worried about the fact that from what I’ve seen, hiring tends to slow down noticeably in December. In addition, Christmas and New Years were just around the corner and losing my job is not the kind of thing I wanted to worry about during the holidays.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, though, the negative feelings didn’t last too long. I couldn’t help but to think about all of the AMAZING opportunities I’ve had during my 5.5 years at Cappex. I was hired as a Sr. Software Engineer and pretty much as soon as I joined, I was given an opportunity to manage a couple of engineers, which was exactly the kind of opportunity I had been hoping for. I was able to make significant contributions to refining &amp;amp; implementing various engineering processes. I was provided with the opportunity to lead the entirety of the Technology organization and be a part of the company leadership staff. I was able to phone screen &amp;amp; interview hundreds of people and make a whole bunch of hires. I was able to introduce the team to a whole lot of new technologies and tools. I was given the opportunity to migrate to AWS. I could go on and on here but the important thing to note here is that while the circumstances under which I’m having to leave Cappex is certainly not ideal, this has taken away only a tiny little bit from the amazing experience I’ve had while working at Cappex. I’m still &lt;em&gt;extremely&lt;/em&gt; thankful.&lt;/p&gt;
+
+&lt;p&gt;And speaking of being thankful, I’ve been overwhelmed with support from people all around me–my colleagues at Cappex, people I’ve worked with in the past, even some strangers I’ve been able to get in touch with in the last few weeks, my friends, my church, and my amazing wife. Thanks to some amazing people in my life, I was able to have meaningful conversations and interviews with over 10 companies in less than 3 weeks and just yesterday, I gave my verbal acceptance of offer. I’m excited, thankful, nervous, and while I’m sad to be leaving the company that I feel like has been an important part of my identity for the last 5.5 years (for better or for worse), I can’t wait to finish up my time at Cappex, take a 2-week break (SO EXCITED), and jump into my new role.&lt;/p&gt;
+
+&lt;p&gt;I have such a strong conviction that God has shown his faithfulness &amp;amp; grace to me in the past 3 and a half weeks and am praying that I will remember this for a long time to come. Thankful &amp;amp; excited for 2018.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started 2017 with a ton of excitement over the opportunity to build Cappex’s very own college application product. I knew it was going to be an extremely challenging project with a tight deadline (8/1), a lot of moving pieces (pretty much the entire company was going to be focused on it), and a lot of hires to make (I made more hires in roughly 3 months than during the rest of the 3+ years I’ve been in my role) but I felt ready for it coming into 2017. As I mentioned in my previous blog post, my team got the job done in time &amp;amp; I couldn’t be more proud of them.</summary></entry><entry><title type="html">New Product Launch And Life Afterwards</title><link href="/2017/10/12/new-product-launch-and-life-afterwards.html" rel="alternate" type="text/html" title="New Product Launch And Life Afterwards" /><published>2017-10-12T00:00:00-05:00</published><updated>2017-10-12T00:00:00-05:00</updated><id>/2017/10/12/new-product-launch-and-life-afterwards</id><content type="html" xml:base="/2017/10/12/new-product-launch-and-life-afterwards.html">&lt;p&gt;A very large chunk of my life from the very beginning of this year until the end of July was focused on launching a &lt;a href=&quot;https://www.cappex.com/hq/app/learn&quot;&gt;new college application product&lt;/a&gt;. Thanks to the hard work of every person on my team (as well as many others in the company) we were able to launch on 8/1, which is the deadline that we had been aiming for and my gosh - it felt GREAT to get this thing launched and get it launched on time. Sure, there’s a lot of things that could’ve gone better and more smoothly during the project but there’s also a lot of things that could’ve gone wrong and in the end - I’m real proud of the work that my team has been able to accomplish. It was a project that took months of planning, involved having to double the size of my team within a relatively short period of time (9 people in about 3 months), and required that every individual work extremely hard (a lot of late nights, weekend work, catered lunches, etc.). When I look back on what my team was able to accomplish during the first 7 months of the year - I’m real proud. This has been one of the most memorable projects that I’ve been a part of and I’m grateful to have had the opportunity to take part in it.&lt;/p&gt;
+
+&lt;p&gt;Since the completion of this project, I think a challenge for me has been to come back to a place where I’m making time being a “maker”. Writing code, tinkering with technologies, writing blog posts, and even making music. Being a maker is something that I had to give up when the project got real busy and I had to enter into a nearly 100% “manager” mode. Sure, as a technology VP, I’m fully aware that the vast majority of my time needs to go towards being a manager. Being a manager is something that I find a lot of satisfaction in and enjoy. However, though - I think it’s crucial to have regular times to be a “maker” and dabble in things and to be able to create things in order for me to be a successful manager and leader of makers.&lt;/p&gt;
+
+&lt;p&gt;So here’s my new goal for at least the next month: Find 5 hours each week being a maker.&lt;/p&gt;</content><author><name></name></author><summary type="html">A very large chunk of my life from the very beginning of this year until the end of July was focused on launching a new college application product. Thanks to the hard work of every person on my team (as well as many others in the company) we were able to launch on 8/1, which is the deadline that we had been aiming for and my gosh - it felt GREAT to get this thing launched and get it launched on time. Sure, there’s a lot of things that could’ve gone better and more smoothly during the project but there’s also a lot of things that could’ve gone wrong and in the end - I’m real proud of the work that my team has been able to accomplish. It was a project that took months of planning, involved having to double the size of my team within a relatively short period of time (9 people in about 3 months), and required that every individual work extremely hard (a lot of late nights, weekend work, catered lunches, etc.). When I look back on what my team was able to accomplish during the first 7 months of the year - I’m real proud. This has been one of the most memorable projects that I’ve been a part of and I’m grateful to have had the opportunity to take part in it.</summary></entry><entry><title type="html">Create a Website On a Custom Domain for Practically Free With Heroku and GoDaddy</title><link href="/2017/05/06/create-a-website-on-a-custom-domain-for-practically-free-with-heroku-and-godaddy.html" rel="alternate" type="text/html" title="Create a Website On a Custom Domain for Practically Free With Heroku and GoDaddy" /><published>2017-05-06T00:00:00-05:00</published><updated>2017-05-06T00:00:00-05:00</updated><id>/2017/05/06/create-a-website-on-a-custom-domain-for-practically-free-with-heroku-and-godaddy</id><content type="html" xml:base="/2017/05/06/create-a-website-on-a-custom-domain-for-practically-free-with-heroku-and-godaddy.html">&lt;p&gt;I’ve had several people ask me over the years what’s a good &amp;amp; cheap way to set up a static or a dynamic website on a custom domain. One of the best things about writing a blog post is that instead of having to repeat myself I can point people to a blog post that I’ve written.&lt;/p&gt;
+
+&lt;p&gt;Anyhow, here are the steps for creating a website on a custom domain for &lt;em&gt;really&lt;/em&gt; cheap with Heroku and GoDaddy. The only price you would pay is the cost of the domain name. Free hosting.&lt;/p&gt;
+
+&lt;p&gt;1) Register a domain name on &lt;strong&gt;GoDaddy&lt;/strong&gt;. You don’t &lt;em&gt;have to&lt;/em&gt; go with GoDaddy (there are many domain registrars out there after all) but the reason why I’ve decided on GoDaddy at least for this blog post is because they allow you to modify DNS settings associated with their domains without having to pay extra. I’ve dealt with other domain registrars that don’t allow for this, which is a show stopper (as far as I know) for getting your custom domain to work with an application running on Heroku.&lt;/p&gt;
+
+&lt;p&gt;I happened to have a spare domain - &lt;strong&gt;theblameboard.com&lt;/strong&gt;. I’m going to use this domain for the blog post.&lt;/p&gt;
+
+&lt;p&gt;2) If you don’t have an account on &lt;a href=&quot;https://www.heroku.com&quot;&gt;Heroku.com&lt;/a&gt;, go ahead and create one. During the sign-up process, when you’re asked for your &lt;strong&gt;Primary Development Language&lt;/strong&gt; - I don’t know that it matters what you pick here but go ahead and pick &lt;strong&gt;PHP&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/heroku_signup.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3) Log into Heroku and click on the &lt;strong&gt;Create New App&lt;/strong&gt; button. Give your application a name. I know the field says it’s &lt;em&gt;optional&lt;/em&gt; but I’d suggest you give it some kind of a name. I’m going to call my app &lt;strong&gt;blame-board&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I open my web browser of choice (Chrome) and go to &lt;a href=&quot;https://blame-board.herokuapp.com/&quot;&gt;https://blame-board.herokuapp.com/&lt;/a&gt; - I see the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/new_site_heroku.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4) Follow the steps on &lt;a href=&quot;https://devcenter.heroku.com/articles/heroku-command-line&quot;&gt;this page&lt;/a&gt; and install the &lt;strong&gt;Heroku CLI&lt;/strong&gt; (Command Line Interface).&lt;/p&gt;
+
+&lt;p&gt;5) You’re now going to need to set up a Git repository on your computer which will store all of the files for this new application.&lt;/p&gt;
+
+&lt;p&gt;Create a new directory for your project and initialize a Git repository:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mkdir blame-board
+$ cd blame-board
+$ git init
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Log into your Heroku account using the Heroku CLI and link your local Git repository to the Git repository on Heroku:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ heroku login
+$ heroku git:remote -a blame-board
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;6) For this blog post, I’m going to create a static site. The easiest way I’ve found to get a static site up on Heroku is to set up an application that Heroku thinks is a PHP application. To do this, create a new file &lt;strong&gt;index.php&lt;/strong&gt;. This file should contain just the following single line:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;?php include_once(&quot;home.html&quot;); ?&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The sole purpose of this PHP file is to include the home.html file which you will create in the next step. Oh, that and telling Heroku that this is a PHP application. FYI - if all you have are static files (HTML, JavaScript, CSS, etc.) in your Heroku project - Heroku won’t know how to deploy your application.&lt;/p&gt;
+
+&lt;p&gt;7) Create a new file called &lt;strong&gt;home.html&lt;/strong&gt;. This is your “index” HTML page. I’ve added the following code in mine:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&quot;en&quot;&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;meta charset=&quot;utf-8&quot;&amp;gt;
+  &amp;lt;title&amp;gt;The Blame Board&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  This is The Blame Board.
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to call your “index” HTML page something other than home.html - that’s totally fine. Just make sure that’s reflected in the index.php file.&lt;/p&gt;
+
+&lt;p&gt;8) In Terminal - commit your changes to your local Git repository and push it up the repository on Heroku.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git add .
+$ git commit -m &quot;Initial commit&quot;
+$ git push heroku master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you see something along the lines of &lt;strong&gt;“…https://blame-board.herokuapp.com/ deployed to Heroku…“&lt;/strong&gt; you’re all set.&lt;/p&gt;
+
+&lt;p&gt;9) Go to &lt;a href=&quot;https://blame-board.herokuapp.com&quot;&gt;https://blame-board.herokuapp.com&lt;/a&gt; and verify that you can see the updates:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/index_page.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;10) Before you can assign a custom domain to your Heroku application you need to add a credit card to your Heroku account. To do this, go to: &lt;a href=&quot;https://heroku.com/verify&quot;&gt;https://heroku.com/verify&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;No, Heroku won’t charge you as long as you stay on the their free tier. It’s a little annoying they make you add a credit card but I can’t complain too much… it’s still free after all.&lt;/p&gt;
+
+&lt;p&gt;As of this writing (May 2017) - according to &lt;a href=&quot;https://devcenter.heroku.com/articles/free-dyno-hours&quot;&gt;this page&lt;/a&gt; - free accounts are limited to 550 hours of server time per month. When you add a credit card to your account you’re given 450 additional hours. Since there are roughly 730 hours per month the only way you can have a Heroku application running 24x7 for free is to have a credit card on your account.&lt;/p&gt;
+
+&lt;p&gt;11) After you’ve added a credit card assign a custom domain name to the Heroku application.&lt;/p&gt;
+
+&lt;p&gt;Go back to the Heroku dashboard in the browser. Click on the &lt;strong&gt;Settings&lt;/strong&gt; link at the top. If you scroll down a bit, you’ll see an &lt;strong&gt;Add domain&lt;/strong&gt; button. Click that. In the modal, type in the domain name you want associated with your site staring with &lt;strong&gt;www&lt;/strong&gt; (this is very important!). For my example I added the following: &lt;strong&gt;www.theblameboard.com&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/heroku_domain.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you haven’t added a credit card to your Heroku account yet you will get the following error message:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please verify your account in order to add domains (please enter a credit card) For more information, see https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;12) Now, to finish linking your custom domain to the Heroku application you’ll need to do a few things on GoDaddy. Click on the &lt;strong&gt;Manage DNS&lt;/strong&gt; button for your domain.&lt;/p&gt;
+
+&lt;p&gt;Scroll down a bit and look for where it has &lt;strong&gt;Type = CNAME&lt;/strong&gt; and &lt;strong&gt;Name = www&lt;/strong&gt;. Click the pencil icon to the right and update &lt;strong&gt;Points to&lt;/strong&gt; to the URL of your Heroku application WITHOUT &lt;strong&gt;https://www&lt;/strong&gt;. I entered &lt;strong&gt;blame-board.herokuapp.com&lt;/strong&gt; and clicked the &lt;strong&gt;Save&lt;/strong&gt; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/cname_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;13) If someone attempts to go to your site without the &lt;strong&gt;www&lt;/strong&gt; subdomain (theblameboard.com), you may (probably will) want to forward the user to www (www.theblameboard.com). In the GoDaddy screen - look for the &lt;strong&gt;Forwarding&lt;/strong&gt; section. Click the &lt;strong&gt;ADD&lt;/strong&gt; link next to &lt;strong&gt;DOMAIN&lt;/strong&gt;. Set it to: &lt;strong&gt;http://www.theblameboard.com&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ll probably want to leave &lt;strong&gt;Forward Type&lt;/strong&gt; to &lt;strong&gt;Permanent (301)&lt;/strong&gt; and &lt;strong&gt;Forward only&lt;/strong&gt; instead of the &lt;em&gt;Forward with masking&lt;/em&gt; option.&lt;/p&gt;
+
+&lt;p&gt;Check the &lt;strong&gt;Update my nameservers and DNS settings to support this change.&lt;/strong&gt; checkbox.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;strong&gt;Save&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;14) In your browser, go to your domain name (eg, &lt;a href=&quot;http://www.theblameboard.com&quot;&gt;www.theblameboard.com&lt;/a&gt;) and verify that your Heroku application comes up. If you see a GoDaddy page instead, it mostly means that your DNS changes haven’t yet propagated. From my experience, this should only take a few minutes. If you’re unlucky, though, you may have to wait several hours or even several days.&lt;/p&gt;
+
+&lt;p&gt;15) Applications running on the free tier of Heroku will sleep if it receives no traffic in a 30 minute period (&lt;a href=&quot;https://devcenter.heroku.com/articles/free-dyno-hours&quot;&gt;Read this&lt;/a&gt; for more info). Once the application falls asleep, it’ll take a little bit of time (10 seconds?) for it to wake up. One way to keep it from sleeping is to ping your Heroku application every so often (more frequently than 30 minutes). I use &lt;strong&gt;UptimeRobot&lt;/strong&gt; for this. Go to &lt;a href=&quot;https://uptimerobot.com/&quot;&gt;uptimerobot.com&lt;/a&gt; and create an account and log in.&lt;/p&gt;
+
+&lt;p&gt;When you log in click on the &lt;em&gt;Add New Monitor&lt;/em&gt; button. This is what my settings look like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monitor Type = &lt;strong&gt;HTTP(s)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Friendly Name = Whatever you want it to be. I’m setting mine to: &lt;strong&gt;theblameboard.com&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;URL = &lt;strong&gt;http://www.theblameboard.com&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Monitoring interval: Anything less than 30 minutes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/heroku-godaddy/uptimerobot.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And that’s it!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While there are many other ways to host your site for really cheap, something that’s as cheap and reliable as the Heroku + GoDaddy combination will be hard to come by. Plus, one of the huge advantages of Heroku is that you can have an application that runs on various programming languages (Java, Ruby, Python, Node, and more).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Important note:&lt;/strong&gt; For my own side projects, I utilize the free tier of &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt;, which enables me to take advantage of their CDN as well as the ability to have my sites on HTTPS for free. I’ll write about this at some point in the future.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve had several people ask me over the years what’s a good &amp;amp; cheap way to set up a static or a dynamic website on a custom domain. One of the best things about writing a blog post is that instead of having to repeat myself I can point people to a blog post that I’ve written.</summary></entry></feed>
