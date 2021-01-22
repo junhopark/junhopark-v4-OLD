@@ -1,0 +1,11 @@
+---
+layout: posts
+---
+
+My wife and I met through a (very) random suggestion from a mutual friend 3 and a half years ago.  It was suggested to us that we should meet up, get to know each other a little bit and maybe, just maybe it might work.  So we met soon thereafter.  It was the first blind date for both of us and as most blind dates go, it was a bit awkward and I certainly don't remember seeing any sparks flying in the air.  We ended our first date on a very awkward handshake (yep, my fault).  At the end of the date, though, something in me thought that I should see her at least once more.  So I asked.  And that's one of the very best decisions I've made in my life.
+
+Our 2nd date was light years better than the first and some sparks did fly in the air.  I asked her to marry me 9 months later and we were married 9 months after that.
+
+Fast forward 2 years, and we're celebrating our 2 years of marriage today.  And I can't help but to think myself that *I love being married*.  I love that there is this person in my life who I get to share life with--the good times, the bad times, and even moments I'd rather forget.  It's like having a friend to hang out with no matter what time of the day it is.  It's like having a therapist by my side except she doesn't try to solve my problems by giving me needless advices and doesn't charge me arm and a leg for her counseling services.  It's a musician's dream-come-true when there's an audience who is always excited to hear me play the guitar and sing.  It's like having a prayer partner who is always willing to pray with me and genuinely welcomes my prayers.  It's like having a teacher in my life who teaches not with lesson plans but by my mere observations of her.  She has become an extension of myself and I can't imagine living life without her.  She has quite literally become my better half.
+
+As I bask in the joy & gratitude of being married to the girl of my dreams today, I'm aware that it's only been 2 years since we've been married and that we're bound to hit some rocky paths along the way.  If & when that happens, I hope to remember to refer back to the words I've written in this blog post with the hopes that it will encourage me to do whatever is necessary to fight for this marriage.

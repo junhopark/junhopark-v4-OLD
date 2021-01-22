@@ -1,0 +1,11 @@
+---
+layout: posts
+---
+
+One of the things I’ve been enjoying about work since I made the switch last November is being able to get my hands dirty with front-end web development and being able to work on things that directly impact the usability of the application.  It’s been fun designing and writing code that will allow our clients to have an easy & efficient way of interacting with our software.  It’s been challenging as well–such as trying to make the front-end behave the way I want it to in IE 6.  I can’t believe some (a whole lot) people still use IE 6 but there’s not much I/we can do about it, at least for the moment.
+
+Anyhow, with the resurgence of my interest in UI-related work, I decided to pick up a copy of Steve Krug’s _Don’t Make Me Think (2nd Edition)_.  If you haven’t read this book and have any sort of interest in web usability, I highly recommend you pick up a copy of it.  I’ve read about 2/3 of it thus far and it’s given me some really good things to think about and consider as I do my own front-end development work.  As the title of the book suggests, Krug’s big emphasis throughout his book is this:  Allow the end-users of  your website/web application to use the least amount of brain power to perform their desired tasks.  Don’t make them think. While usability issues are not always black or white and that they sometimes do come down to a matter of preference, I really like the fact that Krug gives some excellent, concrete guidelines that help readers to be able to distinguish between a usable website versus a not-so-usable website.  Even though the fact that our company’s software is a subscription-based web application with a very limited audience in mind (pharmaceutical professionals) means that not everything in this book is directly applicable, I think there’s a lot of UI-related gems to be gleaned from reading this book.
+
+Once I finish this book (hopefully by today) I’ll definitely be looking to get my hands on some other UI-related books.  Any recommendations?
+
+By the way, here’s the [link to Krug’s book](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?ie=UTF8&s=books&qid=1278357994&sr=8-1 "Don't Make Me Think by Steve Krug") on amazon.

@@ -1,0 +1,17 @@
+---
+layout: posts
+---
+
+Last 2 weeks at work have been rough.  This most recent sprint as well as the release ended up being much more difficult than what my team is normally used to.  There were numerous production issues that had to be dealt with right away and of these, one of the issues required several folks on my team (including myself) to stick around at the office into the evening hours and another issue caused me to work pretty much all day on Saturday.  There were some other out-of-the-ordinary stressors at work which I won't get into here but yeah, they have been difficult & stressful 2 weeks.  And it doesn't help that my 3-month old is still far from sleeping through the night and I don't remember the last time I woke up feeling rested and refreshed.  I am constantly tired.  And to add to all this, my wife's been sick for the past week.
+
+As much as I would like to complain about my situation and proclaim "woe is me!", I realize that while I may have 10 things to complain about in my life I have 10,000 things to be thankful for.  Despite how difficult work has been in the last 2 weeks, I must admit, I am so ridiculously fortunate and blessed to be able to do what I do for work and get paid.  At work I get to tinker around with software, which is something I've been wanting to do since I was 7 years old.  I get to work with a group of smart and nice folks who I genuinely enjoy working with.  I get to challenge others and be challenged by others.  Many aspects of my work are fun and there are parts of my job I would still do even if no one paid me.
+
+When my wife was in labor (extremely long & difficult labor, btw) a few months ago, I was journaling (between her contractions, of course) about the work that all of these hospital folks around us (nurses and midwives in particular) were doing to enable my wife to deliver a healthy baby.  As I was observing them do their thing, I couldn't help but think about just how much more difficult and stressful their work is compared to what I do.  Without the work that they did, I believe there's a very good chance that something could've gone horribly wrong with either my wife, my daughter, or both.  Talk about stress and pressure!  Compare that to my world where I freak out and send out emails marked "High Importance" because a script that was supposed to take 10 minutes to run took 4 hours to run.  No exaggeration.  I don't want to trivialize the work that my colleagues and I do but I mean seriously, no one's going to die or get hurt (physically...) because we're not doing our jobs right.
+
+I think about my dad who has been repairing shoes for over 20 years now.  Most people aren't aware of what takes place when shoes are being repaired but the job sucks.  Seriously.  And it's messy.  There's dust flying everywhere.  He deals with people's shoes and some people have downright nasty feet.  There are no aspects of my dad's work that's even remotely glorious.  How dare do I complain?
+
+I'm so prone to whine about just how tired I am dealing with my very cute, chubby, and fussy 3-month old.  Maybe it's not that big of a deal that I whine about my lack of sleep.  I do think it is a much bigger deal, though, when my whining turns into thanklessness, which has been happening much more frequently than I would like to admit in the past few months.
+
+I need to reflect on the following words as I start my day today:
+
+*Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus. (1 Thessalonians 5:16-18)*
