@@ -38,7 +38,6 @@ defaults:
       image: true
 
 # Build settings
-#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
